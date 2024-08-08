@@ -3,4 +3,4 @@
 Welcome to the C++ tutorial.
 
 ## The fundamentals:-
-Let us begin
+Let us begin now.
