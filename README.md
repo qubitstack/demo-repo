@@ -1,6 +1,6 @@
 # CPP Basics.
+Welcome to a tutorial of c++
 
-Welcome to the C++ tutorial.
-
-## The fundamentals:-
-Let us begin now.
+# Chapters
+# CPP Basics
+## Add 2 numbers
