@@ -22,5 +22,19 @@ int main()
   cin>>x>>y; // putting values first in x then in y
   sum=x+y;   // taking sum
   cout<<The sum is :\t"<<sum<<endl; // printing out the sum
+
+
   return 0; 
 }
+
+// Print a string after taking input.
+
+int main()
+{ string str;
+  cout<<"Enter the string."<<endl;
+  cin>>str;
+  cout<<"The string is:"<<str<<endl;
+  return 0; 
+}
+
+
