@@ -10,7 +10,16 @@ The Block diagram of a CPU is as follows:
 
 **The HDD(Hard Disk Drive) contains the following two files:-**
 ***
-* Program
+* Program files:- These are the executable files such as media player,audio player etc.
+* Data files:- These are the files which contains necessary data which is required by the executable files to run a program. <br/>
+examples include text files , audio files etc. <br/>
+
+
+
+
+
+  
+
 
 
 
