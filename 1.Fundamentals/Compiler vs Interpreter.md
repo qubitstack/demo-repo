@@ -31,8 +31,16 @@ int main()
 
 | Compiler | Interpreter|
 |-----------|------------|
-|   A compiler will create machine code for each line of the program and create an executable(exe) file for the whole program.        |   An interpreter on the other hand does not create an executable file, it is instead involved in the execution of the file.       |
-|            |           | 
+|1. A compiler will create machine code for each line of the program and create an executable(exe) file for the whole program.        |   An interpreter on the other hand does not create an executable file, it is instead involved in the execution of the file.       |
+|2. A compiler will only translate program into machine code, it cannot execute code.           | An interpreter like chrome for javascript will translate and execute each line of the code simultaeneously.           | 
+|3. Incase of any error in any line of code, the compiler will stop compiling.        |An interpreter on the other hand will not stop as it is translating and executing each line simultaeneously.        |
+|4. Compiled program  is running independently.   |Whereas an interpreted program will run inside the interpreter.      |
+|5. Compiler is faster as it runs independently|An interpreted program is dependent on context of interpreter, but it is easy to write.|
+
+
+## Hybrid Languages:-
+
+# C# and Java are hybrid languages
 
 
 
