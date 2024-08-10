@@ -38,9 +38,9 @@ int main()
 |5. Compiler is faster as it runs independently|An interpreted program is dependent on context of interpreter, but it is easy to write.|
 
 
-## Hybrid Languages:-
+# Hybrid Languages:-
 
-# C# and Java are hybrid languages
+### C# and Java are hybrid languages, a compiler converts source code into byte code(error free code) and then a JVM(Java Virtual Machine) which acts as an interpreter will run the code ie execute it.
 
 
 
