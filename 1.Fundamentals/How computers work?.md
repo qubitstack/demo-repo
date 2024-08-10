@@ -1,5 +1,5 @@
 ## How do computers work?
-#CPU:-
+# CPU:-
 
 The CPU contains various units like ALU , CU(Control Unit) which can perform a variety of operations.
 
@@ -13,6 +13,10 @@ The Block diagram of a CPU is as follows:
 * Program files:- These are the executable files such as media player,audio player etc.
 * Data files:- These are the files which contains necessary data which is required by the executable files to run a program. <br/>
 examples include text files , audio files etc. <br/>
+
+# Whenever a program is to be sent to the Main Memory/Workspace it is done through a memory area called an **Input Buffer**.
+# Similarly to display the final information on the output device,data has to enter the output buffer,hence the output buffer acts <br/>
+# as an execution point.
 
 
 
