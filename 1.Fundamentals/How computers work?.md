@@ -19,7 +19,7 @@ Similarly to display the final information on the output device,data has to ente
 as an execution point.
 
 | Binary | Decimal |
-------------------
+|--------|-------- |
 | 0      |    0    |
 
 
