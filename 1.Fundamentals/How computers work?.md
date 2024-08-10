@@ -6,7 +6,7 @@ The CPU contains various units like ALU , CU(Control Unit) which can perform a v
 The Block diagram of a CPU is as follows:
 
 
-![Alt text](cpu-block-diagram)
+![](cpu-block-diagram.avif)
 
 
 
