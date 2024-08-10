@@ -15,7 +15,7 @@ int main()          // int is a return type for the function, main is the functi
 }
 
 // Program to add two numbers x and y
-
+``` c++
 int main()
 { int x,y,sum;  // declaring variables
   cout<<"Enter values of x and y:"; // taking user input
