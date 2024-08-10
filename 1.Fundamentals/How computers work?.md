@@ -18,15 +18,7 @@ Whenever a program is to be sent to the Main Memory/Workspace it is done through
 Similarly to display the final information on the output device,data has to enter the output buffer,hence the output buffer acts <br/>
 as an execution point.
 
-| Binary  | Decimal |
-|-------- |-------- |
-|  0000       |     0  |
-|  0001       |     1    |
-|  0010       |     2    |
-|         |         |
-|         |         |
-|         |         |
-|         |         |
+
 
 
 
