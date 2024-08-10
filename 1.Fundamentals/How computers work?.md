@@ -10,8 +10,7 @@ The Block diagram of a CPU is as follows:
 
 **The HDD(Hard Disk Drive) contains the following two files:-**
 ***
-<br></br>
-*Program fiels
+* Program
 
 
 
