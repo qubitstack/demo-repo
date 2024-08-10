@@ -14,9 +14,14 @@ The Block diagram of a CPU is as follows:
 * Data files:- These are the files which contains necessary data which is required by the executable files to run a program. <br/>
 examples include text files , audio files etc. <br/>
 
-Whenever a program is to be sent to the Main Memory/Workspace it is done through a memory area called an **Input Buffer**.
+Whenever a program is to be sent to the Main Memory/Workspace it is done through a memory area called an **Input Buffer**. <br/>
 Similarly to display the final information on the output device,data has to enter the output buffer,hence the output buffer acts <br/>
 as an execution point.
+
+| Binary | Decimal |
+------------------
+| 0      |    0    |
+
 
 
 
