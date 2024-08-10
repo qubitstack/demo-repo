@@ -28,7 +28,7 @@ int main()
 }
 
 // Print a string after taking input.
-
+``` c++
 int main()
 { string str;
   cout<<"Enter the string."<<endl;
